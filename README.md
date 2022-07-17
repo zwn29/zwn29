@@ -37,14 +37,14 @@
 <br />
 
 
-
-
 ## :telephone_receiver: me
 
 [twitter]: https://twitter.com/crypticcc101
 
-['github']: https://github.com/zwn28
+[github]: https://github.com/zwn28
 
-[profile]: https://zwn28.github.io/
+-:github: : 'https://zwn28.github.io/'
 
-[email]: crypticcc101@gmail.com
+-:email: : crypticcc101@gmail.com
+
+!['image'](giphy4.gif)

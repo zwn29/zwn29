@@ -32,3 +32,15 @@
 -:pound: C++
 
 !['image'](giphy3.gif)
+
+<br />
+<br />
+
+
+[twitter]: https://twitter.com/crypticcc101
+
+[github]: https://github.com/zwn28
+
+[profile]: https://zwn28.github.io/
+
+[email]: crypticcc101@gmail.com

@@ -39,12 +39,12 @@
 
 ## :telephone_receiver: me
 
-[twitter]: https://twitter.com/crypticcc101
+-:twitter: https://twitter.com/crypticcc101
 
-[github]: https://github.com/zwn28
+-:basecamp: https://github.com/zwn28
 
--:github: : 'https://zwn28.github.io/'
+-:sparkle:  'https://zwn28.github.io/'
 
--:email: : crypticcc101@gmail.com
+-:email:  crypticcc101@gmail.com
 
 !['image'](giphy4.gif)

@@ -39,11 +39,11 @@
 
 ## :telephone_receiver: me
 
--:twitter: https://twitter.com/crypticcc101
+-:biohazard: https://twitter.com/crypticcc101
 
--:basecamp: https://github.com/zwn28
+-:basecamp:  https://github.com/zwn28
 
--:sparkle:  'https://zwn28.github.io/'
+-:sparkle:  https://zwn28.github.io/
 
 -:email:  crypticcc101@gmail.com
 

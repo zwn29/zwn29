@@ -1,6 +1,6 @@
 ### 	:pirate_flag: :crossed_flags: :checkered_flag:
 
-## I'm a Developer , student , and wanna be a hacker
+## courage is all you need
 
 
 

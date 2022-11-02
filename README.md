@@ -32,7 +32,8 @@
 
 -:pound: C++
 
-!['image'](giphy3.gif)
+<!-- !['image'](giphy3.gif) -->
+!['contributions.svg'](contributions.svg)
 
 <br />
 <br />
@@ -48,7 +49,7 @@
 
 -:email:  crypticcc101@gmail.com
 
-!['contributions.svg'](contributions.svg)
+
 
 
 

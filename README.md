@@ -3,9 +3,6 @@
 ##  hprogrammer
 
 
-
-!['contributions.svg'](contributions.svg)
-
 -:green_square: I'm a student of computer science
 
 -:orange_square: I'm a developer web and android
@@ -50,6 +47,8 @@
 -:sparkle:  https://zwn28.github.io/
 
 -:email:  crypticcc101@gmail.com
+
+!['contributions.svg'](contributions.svg)
 
 
 

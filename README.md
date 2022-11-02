@@ -20,7 +20,7 @@
 
 
 ## Languages and Frameworks
--:euro: javascript, python , rust(junior)
+-:euro: javascript, python , rust
 
 -:money_with_wings: html5, css3
 

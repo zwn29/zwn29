@@ -16,8 +16,8 @@
 -:pirate_flag: Blazing fast learning
 
 
+!['contributions.svg'](contributions.svg)
 
-!['image'](giphy.gif)
 
 ## Languages and Frameworks
 -:euro: javascript, python
@@ -33,7 +33,8 @@
 -:pound: C++
 
 <!-- !['image'](giphy3.gif) -->
-!['contributions.svg'](contributions.svg)
+
+!['image'](giphy.gif)
 
 <br />
 <br />

@@ -2,6 +2,10 @@
 
 ## I'm a Developer , student , and wanna be a hacker
 
+
+
+!['contributions.svg'](contributions.svg)
+
 -:green_square: I'm a student of computer science
 
 -:orange_square: I'm a developer web and android

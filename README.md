@@ -5,7 +5,7 @@
 
 -:green_square: I'm a student of computer science
 
--:orange_square: I'm a developer web and android
+-:orange_square: I'm a developer web and android(newbie)
 
 -:blue_square: I'm a tech enthusiast
 
